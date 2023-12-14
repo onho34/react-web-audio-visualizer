@@ -1,5 +1,9 @@
 # React + Web Audio
+## Screenshots
 
+![Home page](./Screenshot_1.png?raw=true "Home")
+
+## Description
 This is an example application that shows how to visualise audio from the microphone using the Web Audio API in React.
 
 ![](https://s3.amazonaws.com/com.twilio.prod.twilio-docs/images/f45ncza6SRuSXhp7iE4XODmWWhy1_uqWUTbJy9Mg1uB8Eo.width-500.png)
